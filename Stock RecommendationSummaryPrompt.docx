@@ -1,0 +1,93 @@
+
+ 
+SpringPad’s Professional Analysts' Stock Recommendation Summary Prompt
+How to Use: https://www.perplexity.ai/
+
+PROMPT
+
+Stock to analyze: [INSERT STOCK NAME HERE]
+ Current date: [Take today’s date]
+For the stock specified above, provide a detailed analysis in the exact same style, format, and structure as the sample output below.
+ Do not deviate in any way.
+ Follow these instructions precisely:
+1.	Use the latest available close price as "Current Price (Latest Close)".
+
+2.	Show market capitalization in Indian currency format, both in lakh crore and lakh (e.g., ₹10.81 lakh crore = ₹1,08,10,000 lakh).
+
+3.	Use these section names and order exactly:
+
+○	Professional Institutional Recommendations
+
+○	Target Price Distribution
+
+○	Key Takeaways
+
+○	Actionable Insights for Investors
+
+4.	Tables must have the same columns, wording, and style as in the sample.
+
+5.	State Consensus Professional Recommendation exactly as shown.
+
+6.	The Implied Upside/Downside column must be calculated versus the latest close price.
+
+7.	Do not include niceties, follow-ups, or extra commentary.
+
+8.	Do not include individual analyst/brokerage tables.
+
+9.	Do not add a “structure” section or any introductory text.
+
+10.	Maintain the exact formatting, tone, and content style shown in the sample below.
+
+Sample Output:
+Bharti Airtel: Analyst Ratings & Target Prices (May 2025)
+Current Price (Latest Close): ₹1,901.00
+ Market Cap: ₹1,08,10,000 lakh (₹10.81 lakh crore)
+ Note: ₹10.81 trillion = ₹10.81 lakh crore = ₹1,08,10,000 lakh
+Professional Institutional Recommendations
+Recommendation	% of Analysts	Number of Analysts (out of 35)
+Buy	83%	29
+Hold	8%	3
+Sell	8%	3
+●	
+Consensus Professional Recommendation: Strong Buy
+
+Target Price Distribution
+Category	Target Price (₹)	Price Range (₹)	Number of Analysts (out of 35)	Probability	Implied Upside/Downside	Consensus Avg. Time Horizon (Months)
+High	2,350	Above 1,995	18	51%	+23.6%	8
+Median	1,900	1,805–1,995	14	40%	-0.05%	7
+Low	1,220	Below 1,805	3	9%	-35.8%	6
+Key Takeaways
+●	Strong Buy consensus: 83% of institutional analysts recommend buying Bharti Airtel.
+
+●	Majority bullish: 51% of analysts expect significant upside (+23.6%) within the next 8 months.
+
+●	Median target close to current price: 40% of analysts expect the stock to remain flat in the near term.
+
+●	Minority see risk: 9% foresee substantial downside (-35.8%).
+
+●	Effective time horizon: Most targets are set with 6–8 months remaining from today.
+
+●	Stock performance: Bharti Airtel is trading near all-time highs, underpinned by robust financials and sector leadership.
+
+Actionable Insights for Investors
+●	Overwhelming institutional support: The stock is a strong buy for most professional analysts, with a clear majority projecting notable gains in the coming 6–8 months.
+
+●	Upside potential: While the median target suggests limited near-term movement, the distribution is skewed bullish, with over half expecting a meaningful rally.
+
+●	Risk awareness: A small minority anticipate downside, highlighting the importance of monitoring sector dynamics and valuation.
+
+●	Strategic positioning: Bharti Airtel remains a preferred pick in Indian telecom for growth, profitability, and market dominance, but investors should balance optimism with prudent risk management given current valuations.
+
+Replace all Bharti Airtel-specific data, numbers, and names with those for the stock specified above, but keep the formatting, structure, and wording exactly the same.
+Citations:
+1.	https://letstranzact.com/blogs/stock-report-templates
+2.	https://www.theneuron.ai/write/reports/stock-report
+3.	https://corporatefinanceinstitute.com/resources/valuation/equity-research-report/
+4.	https://www.fylehq.com/blog/how-to-write-a-financial-analysis-report
+5.	https://www.slideteam.net/blog/top-10-stock-research-report-templates-with-samples-and-examples
+6.	https://www.cfainstitute.org/sites/default/files/-/media/documents/support/research-challenge/challenge/rc-equity-research-report-essentials.pdf
+7.	https://www.wallstreetprep.com/knowledge/sample-equity-research-report/
+8.	https://in.pinterest.com/pin/stock-analyst-report-template-2--885872189184569725/
+________________________________________
+Answer from Perplexity: pplx.ai/share
+
